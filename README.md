@@ -1,7 +1,9 @@
-###Chatbot NLP
+### Chatbot NLP
+
 Esse é um projeto de um chatbot feito com processamento de linguagem natural (NLP) utilizando a biblioteca Scikit-Learn.
 
-##Funcionalidades
+## Funcionalidades
+
 O chatbot é capaz de reconhecer a intenção do usuário com base na mensagem recebida e responder de forma apropriada. As intenções atualmente implementadas são:
 
 Saudação: responde com uma mensagem de saudação aleatória.
@@ -20,5 +22,6 @@ git clone https://github.com/seu-usuario/chatbot-nlp.git
 cd chatbot-nlp
 python chatbotnlp.py
 
-##Contribuição
+## Contribuição
+
 Contribuições são bem-vindas! Caso queira adicionar uma nova intenção ou melhorar o código existente, abra um pull request com suas alterações. Certifique-se de incluir testes para suas mudanças e de que todos os testes já existentes passem antes de abrir o pull request.
